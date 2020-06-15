@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Problems/Find the max of three numbers/out/
+/Problems/Find the max of three numbers/out/production/classes/
+/Problems/Rotate a rectange array/out/
+/Problems/Rotate a rectange array/out/production/classes/
+/Problems/Symmetrical number/out/
+/Problems/Symmetrical number/out/production/classes/
+/Problems/Test learners/out/
+/Problems/Test learners/out/production/classes/
+/Problems/The angle between vectors/out/
+/Problems/The angle between vectors/out/production/classes/
+/Readability Score/task/build/
+/Readability Score/task/out/
+/Readability Score/task/out/production/classes/
